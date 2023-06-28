@@ -15,6 +15,7 @@ GitHub Profile Finder is a web application that allows users to search for GitHu
 
 - Next.js: Front-end JavaScript library for building user interfaces
 - GitHub REST API: API used to retrieve GitHub profile information
+- Tailwind CSS: CSS framework for styling
 
 ## Getting Started
 
